@@ -1,33 +1,34 @@
 cv:
   name: Jialiang Gu
-  label: Ph.D. Student in Computer Science
+  headline: Ph.D. Student in Computer Science
   email: jgu7@gmu.edu
-  phone: "(+1) 571-234-2933"
+  phone: "+1 571-234-2933"
   website: https://gujialiang123.github.io
   location: Fairfax, VA, USA
-  image: ""
-  summary: >
-    First-year Ph.D. student in Computer Science at George Mason University,
-    advised by Prof. Keren Zhou. I also collaborate closely with Prof. Jialu
-    Zhang at the University of Waterloo. My research interests focus on machine
-    learning systems, LLM applications, and teaching and learning in the LLM era.
   sections:
+    Summary:
+      - bullet: >
+          First-year Ph.D. student in Computer Science at George Mason University,
+          advised by Prof. Keren Zhou. I also collaborate closely with Prof. Jialu
+          Zhang at the University of Waterloo. My research interests focus on machine
+          learning systems, LLM applications, and teaching and learning in the LLM era.
+
     Education:
       - institution: George Mason University
         location: Fairfax, VA, USA
         area: Computer Science
-        studyType: Ph.D. Student
-        start_date: 2025
-        end_date: Present
+        degree: Ph.D. Student
+        start_date: "2025"
+        end_date: "present"
         highlights:
           - "Advisor: Prof. Keren Zhou"
 
       - institution: Wuhan University
         location: Wuhan, China
         area: Computer Science, Hongyi Honor College
-        studyType: Undergraduate
-        start_date: 2021
-        end_date: 2025
+        degree: Undergraduate
+        start_date: "2021"
+        end_date: "2025"
         highlights:
           - "Overall GPA: 3.72/4.0"
 
@@ -40,7 +41,7 @@ cv:
           - Hanyuan Shi
           - Jialu Zhang
         publisher: FSE-IVR
-        releaseDate: 2026
+        releaseDate: "2026"
         summary: "Jialiang Gu, Keren Zhou, Daming Li, Hanyuan Shi, and Jialu Zhang. FSE-IVR, 2026."
 
       - title: A Systematic Study of Time Limit Exceeded Errors in Online Programming Assignments
@@ -54,7 +55,7 @@ cv:
           - Daming Li
           - Hanyuan Shi
         publisher: arXiv:2510.14339 [cs.SE]
-        releaseDate: 2025
+        releaseDate: "2025"
         summary: "Jialiang Gu* and Jialu Zhang* contributed equally. arXiv:2510.14339 [cs.SE], 2025."
 
       - title: "DiscoSum: Discourse-aware News Summarization"
@@ -65,15 +66,15 @@ cv:
           - Jiatong Shi
           - Muhao Chen
         publisher: arXiv:2506.06930 [cs.SE]
-        releaseDate: 2025
+        releaseDate: "2025"
         summary: "Jia-Liang Gu*, Tenghao Huang*, and Alexander Spangher* contributed equally. arXiv:2506.06930 [cs.SE], 2025."
 
     Experience:
       - company: University of Waterloo
         position: Research Assistant
         location: Waterloo, Canada
-        start_date: 2023
-        end_date: 2025
+        start_date: "2023"
+        end_date: "2025"
         summary: "Study on Time Limit Exceeded errors characteristics in competitive programming."
         highlights:
           - "Advisor: Prof. Jialu Zhang"
@@ -81,100 +82,92 @@ cv:
       - company: University of California, Davis
         position: Research Intern
         location: Davis, CA, USA
-        start_date: 2024-07
-        end_date: 2024-09
+        start_date: "2024-07"
+        end_date: "2024-09"
         summary: "Structural summarization with large language models."
         highlights:
           - "Advisor: Prof. Muhao Chen"
 
     Academic Competition Awards:
-      - title: "Champion, 2024 ICPC China Hubei Provincial Contest (Wuhan)"
-        date: 2024-05
+      - name: "Champion, 2024 ICPC China Hubei Provincial Contest (Wuhan)"
+        date: "2024-05"
         awarder: ICPC China Hubei Provincial Contest
-      - title: "Gold Medal, International Collegiate Programming Contest (ACM-ICPC) Hangzhou Regional Contest"
-        date: 2023-12
+      - name: "Gold Medal, International Collegiate Programming Contest (ACM-ICPC) Hangzhou Regional Contest"
+        date: "2023-12"
         awarder: ACM-ICPC
-      - title: "Bronze Medal, International Collegiate Programming Contest (ACM-ICPC) EC-Final"
-        date: 2024-01
+      - name: "Bronze Medal, International Collegiate Programming Contest (ACM-ICPC) EC-Final"
+        date: "2024-01"
         awarder: ACM-ICPC East Asia Final
-      - title: "Silver Medal, International Collegiate Programming Contest (ACM-ICPC) Macau Regional Contest"
-        date: 2023-11
+      - name: "Silver Medal, International Collegiate Programming Contest (ACM-ICPC) Macau Regional Contest"
+        date: "2023-11"
         awarder: ACM-ICPC
-      - title: "Silver Medal, International Collegiate Programming Contest (ACM-ICPC) Xi'an Regional Contest"
-        date: 2022-11
+      - name: "Silver Medal, International Collegiate Programming Contest (ACM-ICPC) Xi'an Regional Contest"
+        date: "2022-11"
         awarder: ACM-ICPC
-      - title: "Silver Medal, International Collegiate Programming Contest (ACM-ICPC) Nanjing Regional Contest"
-        date: 2022-11
+      - name: "Silver Medal, International Collegiate Programming Contest (ACM-ICPC) Nanjing Regional Contest"
+        date: "2022-11"
         awarder: ACM-ICPC
-      - title: "Gold Medal, 2023 ICPC China Shaanxi National Invitational Programming Contest (Xi'an)"
-        date: 2023-05
+      - name: "Gold Medal, 2023 ICPC China Shaanxi National Invitational Programming Contest (Xi'an)"
+        date: "2023-05"
         awarder: ICPC China
-      - title: "Gold Medal, 2023 CCPC China Hunan National Invitational Programming Contest (Xiangtan)"
-        date: 2023-05
+      - name: "Gold Medal, 2023 CCPC China Hunan National Invitational Programming Contest (Xiangtan)"
+        date: "2023-05"
         awarder: CCPC China
-      - title: "Silver Medal, The 9th China Collegiate Programming Contest (Shenzhen)"
-        date: 2023-11
+      - name: "Silver Medal, The 9th China Collegiate Programming Contest (Shenzhen)"
+        date: "2023-11"
         awarder: CCPC
-      - title: "Silver Medal, The 8th China Collegiate Programming Contest (Weihai)"
-        date: 2022-11
+      - name: "Silver Medal, The 8th China Collegiate Programming Contest (Weihai)"
+        date: "2022-11"
         awarder: CCPC
-      - title: "First Prize, 2023 RAICOM Robotics Challenge national finals"
-        date: 2023-08
+      - name: "First Prize, 2023 RAICOM Robotics Challenge national finals"
+        date: "2023-08"
         awarder: RAICOM Robotics Challenge
-      - title: "Third Prize, The 2nd CCF Siannan Cup Quantum Computing Challenge"
-        date: 2023-08
+      - name: "Third Prize, The 2nd CCF Siannan Cup Quantum Computing Challenge"
+        date: "2023-08"
         awarder: CCF
 
     Honors and Experience at School:
-      - title: "Excellent Teaching Assistant, Computer Composition and Design"
-        date: 2024-01
+      - name: "Excellent Teaching Assistant, Computer Composition and Design"
+        date: "2024-01"
         awarder: School of Computer Science, Wuhan University
-      - title: "Excellent Student, Hongyi Honor College, Wuhan University (Top 15%)"
-        date: 2024-01
+      - name: "Excellent Student, Hongyi Honor College, Wuhan University (Top 15%)"
+        date: "2024-01"
         awarder: Wuhan University
-      - title: "CCF Excellent Student, CCF National Outstanding College Student Award"
-        date: 2024-10
+      - name: "CCF Excellent Student, CCF National Outstanding College Student Award"
+        date: "2024-10"
         awarder: China Computer Federation
-      - title: "Assistant Head Teacher, Hongyi Honor College, Wuhan University"
-        date: 2022
+      - name: "Assistant Head Teacher, Hongyi Honor College, Wuhan University"
+        date: "2022"
         awarder: Wuhan University
 
-    Skills:
-      - name: Programming Languages
-        keywords:
-          - C/C++
-          - Python
-      - name: Platforms
-        keywords:
-          - Windows
-          - macOS
-          - Linux
-      - name: Other
-        keywords:
-          - Verilog
-          - PyTorch
-      - name: Certification
-        keywords:
-          - "China Computer Federation Certified Software Professional (CCF-CSP): 470/500, Top 0.1%"
+    Technical Skills:
+      - label: Programming Languages
+        details: C/C++, Python
+      - label: Platforms
+        details: Windows, macOS, Linux
+      - label: Other
+        details: Verilog, PyTorch
+      - label: Certification
+        details: "China Computer Federation Certified Software Professional (CCF-CSP): 470/500, Top 0.1%"
 
     Projects:
       - name: Triton-Viz
         url: https://github.com/Deep-Learning-Profiling-Tools/triton-viz
         summary: "Core developer of an open-source project."
-        start_date: 2025
-        end_date: Present
+        start_date: "2025"
+        end_date: "present"
         highlights:
           - "Developed and maintained the visualizer module, focusing on extending Triton-Viz to support additional tile-level languages and improving its visualization infrastructure."
 
       - name: 32-bit Pipelined CPU based on RISC-V
         summary: "Verilog personal project, Wuhan."
-        start_date: 2023-07
+        start_date: "2023-07"
         highlights:
           - "Implemented a 32-bit pipelined RISC-V CPU in Verilog, supporting 32 basic instructions and successfully running C/C++-compiled programs and an FPGA-deployed aircraft shooting game."
 
       - name: Tripo APP
         summary: "Test engineer and project manager for a large-scale software application design course project."
-        start_date: 2023-10
+        start_date: "2023-10"
         highlights:
           - "Built a travel diary app with post sharing, GPT-based summary generation, and AI-powered hotspot recommendation features."
 
