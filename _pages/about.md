@@ -30,4 +30,6 @@ Hi, I'm **Jialiang Gu (谷嘉良)**, a first-year Ph.D. student in Computer Scie
 
 My research interests focus on **machine learning systems (MLSys)** and **LLM applications**, as well as questions around **teaching and learning in the LLM era**. Currently, my work mainly spans three directions: (1) building ecosystem tools for next-generation GPU programming languages such as Triton; (2) developing LLM-based tools for code understanding, analysis, and explanation; and (3) enhancing LLM reasoning and reliability with techniques like **static analysis** and **agent-based** methods.
 
+*I spent quite a few years solving algorithmic puzzles competitively. Along the way, I won a Gold Medal at the ACM-ICPC Asia Regional Contest and became the 2024 Hubei Provincial ICPC Champion.*
+
 I'm always open to conversations and collaborations around these topics. Feel free to reach out.
