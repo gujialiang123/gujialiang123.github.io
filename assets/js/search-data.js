@@ -440,11 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-first-author-paper-context-aware-feedback-compression-in-online-judge-programming-with-llms-was-accepted-to-fse-ivr-2026",
-          title: 'One first author paper, “Context-Aware Feedback Compression in Online Judge Programming with LLMs,”...',
-          description: "",
-          section: "News",},{id: "news-i-joined-george-mason-university-as-a-ph-d-student-in-computer-science",
+            },},{id: "news-i-joined-george-mason-university-as-a-ph-d-student-in-computer-science",
           title: 'I joined George Mason University as a Ph.D. student in Computer Science.',
+          description: "",
+          section: "News",},{id: "news-one-first-author-paper-context-aware-feedback-compression-in-online-judge-programming-with-llms-was-accepted-to-fse-ivr-2026",
+          title: 'One first author paper, “Context-Aware Feedback Compression in Online Judge Programming with LLMs,”...',
           description: "",
           section: "News",},{id: "news-i-will-join-microsoft-research-as-a-research-intern",
           title: 'I will join Microsoft Research as a research intern.',
