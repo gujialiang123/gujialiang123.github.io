@@ -480,18 +480,11 @@ ninja.data = [{
           window.open("mailto:%6A%67%75%37@%67%6D%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=PS_CX0AAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=vtNCYjEAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
