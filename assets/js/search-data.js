@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-context-aware-feedback-compression-in-online-judge-programming-with-llms-was-accepted-to-fse-ivr-2026",
-          title: 'Our paper, “Context-Aware Feedback Compression in Online Judge Programming with LLMs,” was accepted...',
+            },},{id: "news-one-first-author-paper-context-aware-feedback-compression-in-online-judge-programming-with-llms-was-accepted-to-fse-ivr-2026",
+          title: 'One first author paper, “Context-Aware Feedback Compression in Online Judge Programming with LLMs,”...',
           description: "",
           section: "News",},{id: "news-i-joined-george-mason-university-as-a-ph-d-student-in-computer-science",
           title: 'I joined George Mason University as a Ph.D. student in Computer Science.',
