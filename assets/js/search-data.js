@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-joined-george-mason-university-as-a-ph-d-student-in-computer-science",
-          title: 'I joined George Mason University as a Ph.D. student in Computer Science.',
+            },},{id: "news-i-have-joined-gmu-as-a-cs-phd-student-advised-by-keren-zhou",
+          title: 'I have joined GMU as a CS PhD student, advised by Keren Zhou!...',
           description: "",
           section: "News",},{id: "news-one-first-author-paper-context-aware-feedback-compression-in-online-judge-programming-with-llms-was-accepted-to-fse-ivr-2026",
           title: 'One first author paper, “Context-Aware Feedback Compression in Online Judge Programming with LLMs,”...',
