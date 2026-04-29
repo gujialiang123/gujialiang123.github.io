@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "Context-Aware Feedback Compression in Online Judge Programming with LLMs," was accepted to FSE-IVR 2026.
+One first author paper, "Context-Aware Feedback Compression in Online Judge Programming with LLMs," was accepted to FSE-IVR 2026!
