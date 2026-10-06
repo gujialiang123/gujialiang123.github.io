@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm **Jialiang Gu (谷嘉良)**, a second-year Ph.D. student in Computer Science at George Mason University, advised by [Prof. Keren Zhou](https://www.jokeren.tech/). I worked as research intern at Microsoft Research(Redmond) in 2026 summer,  working with Debadeepta Dey and Mason Remy. I also collaborate closely with [Prof. Jialu Zhang](https://jialuzhang.netlify.app/) at the University of Waterloo.
-.
+Hi, I'm **Jialiang Gu (谷嘉良)**, a second-year Ph.D. student in Computer Science at George Mason University, advised by [Prof. Keren Zhou](https://www.jokeren.tech/). In Summer 2026, I was a Research Intern at Microsoft Research in Redmond, where I worked with Debadeepta Dey and Mason Remy. I also collaborate closely with [Prof. Jialu Zhang](https://jialuzhang.netlify.app/) at the University of Waterloo.
+
 My research focuses on **AI systems** and **compilers**, particularly **efficient LLM inference**, **GPU programming systems**, and **program analysis for reliable AI software**. I am interested in building tools that bridge high-level AI models and low-level execution, including compiler/runtime optimization, performance analysis, and formal reasoning about AI programs.
 
 _I spent quite a few years solving algorithmic puzzles competitively. Along the way, I won a Gold Medal at the ACM-ICPC Asia Regional Contest and became the 2024 Hubei Provincial ICPC Champion._
