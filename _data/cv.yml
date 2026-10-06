@@ -32,42 +32,162 @@ cv:
         highlights:
           - "Overall GPA: 3.72/4.0"
 
-    Publications:
-      - title: Context-Aware Feedback Compression in Online Judge Programming with LLMs
+    Published / Accepted Papers:
+      - title: "NKI Teaching Lab: An Accelerator-Free Toolchain for Learning Tile-Level AI Accelerator Programming"
         authors:
-          - Jialiang Gu
-          - Keren Zhou
-          - Daming Li
-          - Hanyuan Shi
-          - Jialu Zhang
-        publisher: FSE-IVR
-        releaseDate: "2026"
-        summary: "Jialiang Gu, Keren Zhou, Daming Li, Hanyuan Shi, and Jialu Zhang. FSE-IVR, 2026."
+          - "Jialiang Gu"
+          - "Junjie Ma"
+          - "Thai-Hoa Nguyen"
+          - "Hao Wu"
+          - "Zhicong Lu"
+          - "Shuyin Jiao"
+          - "Binqian Yin"
+          - "Keren Zhou"
+        publisher: "SIGCSE TS 2027 (accepted)"
+        releaseDate: "2027"
+        url: "https://2027.sigcse-ts.acm.org/details/sigcse-ts-2027-Papers-1/42/NKI-Teaching-Lab-An-Accelerator-Free-Toolchain-for-Learning-Tile-Level-AI-Accelerato"
+        paper_link: "[Conference](https://2027.sigcse-ts.acm.org/details/sigcse-ts-2027-Papers-1/42/NKI-Teaching-Lab-An-Accelerator-Free-Toolchain-for-Learning-Tile-Level-AI-Accelerato)"
+        summary: "**Jialiang Gu**, Junjie Ma, Thai-Hoa Nguyen, Hao Wu, Zhicong Lu, Shuyin Jiao, Binqian Yin, and Keren Zhou. Accepted to SIGCSE TS 2027."
 
-      - title: A Systematic Study of Time Limit Exceeded Errors in Online Programming Assignments
+      - title: "Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline"
+        authors:
+          - "Zhikai Chen*"
+          - "Jialiang Gu*"
+          - "Junyu Yin*"
+          - "Xianxuan Long"
+          - "Shenglai Zeng"
+          - "Xiaoze Liu"
+          - "Kai Guo"
+          - "Keren Zhou"
+          - "Jiliang Tang"
+        publisher: "AACL-IJCNLP 2026 (accepted)"
+        releaseDate: "2026"
+        url: "https://arxiv.org/abs/2606.04315"
+        paper_link: "[arXiv](https://arxiv.org/abs/2606.04315)"
+        summary: "Zhikai Chen\\*, **Jialiang Gu**\\*, Junyu Yin\\*, Xianxuan Long, Shenglai Zeng, Xiaoze Liu, Kai Guo, Keren Zhou, and Jiliang Tang. Accepted to AACL-IJCNLP 2026. \\* Equal contribution (co-first authors)."
+
+      - title: "TileBench: A Controlled Benchmark for Performance Evaluation and Bottleneck Diagnosis of Tile-Based Programming Models"
+        authors:
+          - "Bowen Cui"
+          - "Zhongchun Zhou"
+          - "Hao Wu"
+          - "Tejas Ramesh"
+          - "Junyu Yin"
+          - "Jialiang Gu"
+          - "Keren Zhou"
+        publisher: "AACL-IJCNLP 2026 (accepted)"
+        releaseDate: "2026"
+        url: "https://arxiv.org/abs/2609.29067"
+        paper_link: "[arXiv](https://arxiv.org/abs/2609.29067)"
+        summary: "Bowen Cui, Zhongchun Zhou, Hao Wu, Tejas Ramesh, Junyu Yin, **Jialiang Gu**, and Keren Zhou. Accepted to AACL-IJCNLP 2026."
+
+      - title: "FrontierCS: Evolving Challenges for Evolving Intelligence"
+        authors:
+          - "Qiuyang Mang*"
+          - "Wenhao Chai*"
+          - "Zhifei Li*"
+          - "Huanzhi Mao*"
+          - "Shang Zhou*"
+          - "Alexander Du*"
+          - "Hanchen Li*"
+          - "Shu Liu*"
+          - "Edwin Chen"
+          - "Yichuan Wang"
+          - "Xieting Chu"
+          - "Zerui Cheng"
+          - "Yuan Xu"
+          - "Tian Xia"
+          - "Zirui Wang"
+          - "Tianneng Shi"
+          - "Jianzhu Yao"
+          - "Yilong Zhao"
+          - "Qizheng Zhang"
+          - "Charlie F. Ruan"
+          - "Zeyu Shen"
+          - "Kaiyuan Liu"
+          - "Zhaoyang Hong"
+          - "Alex Gu"
+          - "Ziyi Zhang"
+          - "Runyuan He"
+          - "Dong Xing"
+          - "Zerui Li"
+          - "Zirong Zeng"
+          - "Yige Jiang"
+          - "Lufeng Cheng"
+          - "Ziyi Zhao"
+          - "Youran Sun"
+          - "Suyang Zhong"
+          - "Junpeng Wang"
+          - "Donglin Li"
+          - "Wenyuan Huang"
+          - "Jialiang Gu"
+          - "Wesley Kai Zheng"
+          - "Wangmeiyu Zhang"
+          - "Ruyi Ji"
+          - "Xuechang Tu"
+          - "Zihan Zheng"
+          - "Zhaozi Wang"
+          - "Zexing Chen"
+          - "Jingbang Chen"
+          - "Jialu Zhang"
+          - "Aleksandra Korolova"
+          - "Peter Henderson"
+          - "Pramod Viswanath"
+          - "Vijay Ganesh"
+          - "Saining Xie"
+          - "Zhuang Liu"
+          - "Dawn Song"
+          - "Sewon Min"
+          - "Ion Stoica"
+          - "Joseph E. Gonzalez"
+          - "Jingbo Shang"
+          - "Alvin Cheung"
+        publisher: "ICML"
+        releaseDate: "2026"
+        url: "https://proceedings.mlr.press/v306/mang26a.html"
+        paper_link: "[Paper](https://proceedings.mlr.press/v306/mang26a.html) · [Code](https://github.com/FrontierCS/Frontier-CS) · [Website](https://frontier-cs.org/)"
+        summary: "Qiuyang Mang\\*, Wenhao Chai\\*, Zhifei Li\\*, Huanzhi Mao\\*, Shang Zhou\\*, Alexander Du\\*, Hanchen Li\\*, Shu Liu\\*, Edwin Chen, Yichuan Wang, Xieting Chu, Zerui Cheng, Yuan Xu, Tian Xia, Zirui Wang, Tianneng Shi, Jianzhu Yao, Yilong Zhao, Qizheng Zhang, Charlie F. Ruan, Zeyu Shen, Kaiyuan Liu, Zhaoyang Hong, Alex Gu, Ziyi Zhang, Runyuan He, Dong Xing, Zerui Li, Zirong Zeng, Yige Jiang, Lufeng Cheng, Ziyi Zhao, Youran Sun, Suyang Zhong, Junpeng Wang, Donglin Li, Wenyuan Huang, **Jialiang Gu**, Wesley Kai Zheng, Wangmeiyu Zhang, Ruyi Ji, Xuechang Tu, Zihan Zheng, Zhaozi Wang, Zexing Chen, Jingbang Chen, Jialu Zhang, Aleksandra Korolova, Peter Henderson, Pramod Viswanath, Vijay Ganesh, Saining Xie, Zhuang Liu, Dawn Song, Sewon Min, Ion Stoica, Joseph E. Gonzalez, Jingbo Shang, and Alvin Cheung. ICML, 2026. \\* Equal contribution (co-first authors)."
+
+      - title: "Context-Aware Feedback Compression in Online Judge Programming with LLMs"
+        authors:
+          - "Jialiang Gu"
+          - "Keren Zhou"
+          - "Daming Li"
+          - "Hanyuan Shi"
+          - "Jialu Zhang"
+        publisher: "FSE-IVR"
+        releaseDate: "2026"
+        summary: "**Jialiang Gu**, Keren Zhou, Daming Li, Hanyuan Shi, and Jialu Zhang. FSE-IVR, 2026."
+
+    arXiv / Manuscripts:
+      - title: "A Systematic Study of Time Limit Exceeded Errors in Online Programming Assignments"
         authors:
           - "Jialiang Gu*"
           - "Jialu Zhang*"
-          - Wangmeiyu Zhang
-          - José Pablo Cambronero
-          - John Kolesar
-          - Ruzica Piskac
-          - Daming Li
-          - Hanyuan Shi
-        publisher: arXiv:2510.14339 [cs.SE]
+          - "Wangmeiyu Zhang"
+          - "José Pablo Cambronero"
+          - "John Kolesar"
+          - "Ruzica Piskac"
+          - "Daming Li"
+          - "Hanyuan Shi"
+        publisher: "arXiv:2510.14339 [cs.SE]"
         releaseDate: "2025"
-        summary: "Jialiang Gu* and Jialu Zhang* contributed equally. arXiv:2510.14339 [cs.SE], 2025."
+        url: "https://arxiv.org/abs/2510.14339"
+        paper_link: "[arXiv](https://arxiv.org/abs/2510.14339)"
+        summary: "**Jialiang Gu**\\*, Jialu Zhang\\*, Wangmeiyu Zhang, José Pablo Cambronero, John Kolesar, Ruzica Piskac, Daming Li, and Hanyuan Shi. arXiv:2510.14339 [cs.SE], 2025. \\* Equal contribution (co-first authors)."
 
       - title: "DiscoSum: Discourse-aware News Summarization"
         authors:
           - "Jia-Liang Gu*"
           - "Tenghao Huang*"
           - "Alexander Spangher*"
-          - Jiatong Shi
-          - Muhao Chen
-        publisher: arXiv:2506.06930 [cs.SE]
+          - "Jiatong Shi"
+          - "Muhao Chen"
+        publisher: "arXiv:2506.06930 [cs.SE]"
         releaseDate: "2025"
-        summary: "Jia-Liang Gu*, Tenghao Huang*, and Alexander Spangher* contributed equally. arXiv:2506.06930 [cs.SE], 2025."
+        url: "https://arxiv.org/abs/2506.06930"
+        paper_link: "[arXiv](https://arxiv.org/abs/2506.06930)"
+        summary: "**Jia-Liang Gu**\\*, Tenghao Huang\\*, Alexander Spangher\\*, Jiatong Shi, and Muhao Chen. arXiv:2506.06930 [cs.SE], 2025. \\* Equal contribution (co-first authors)."
 
     Experience:
       - company: University of Waterloo
