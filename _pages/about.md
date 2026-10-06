@@ -26,9 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm **Jialiang Gu (谷嘉良)**, a first-year Ph.D. student in Computer Science at George Mason University, advised by [Prof. Keren Zhou](https://www.jokeren.tech/). I also collaborate closely with [Prof. Jialu Zhang](https://jialuzhang.netlify.app/) at the University of Waterloo.
-
-My research interests focus on **machine learning systems (MLSys)** and **LLM applications**, as well as questions around **teaching and learning in the LLM era**. Currently, my work mainly spans three directions: (1) building ecosystem tools for next-generation GPU programming languages such as Triton; (2) developing LLM-based tools for code understanding, analysis, and explanation; and (3) enhancing LLM reasoning and reliability with techniques like **static analysis** and **agent-based** methods.
+Hi, I'm **Jialiang Gu (谷嘉良)**, a second-year Ph.D. student in Computer Science at George Mason University, advised by [Prof. Keren Zhou](https://www.jokeren.tech/). I worked as research intern at Microsoft Research(Redmond) in 2026 summer,  working with Debadeepta Dey and Mason Remy. I also collaborate closely with [Prof. Jialu Zhang](https://jialuzhang.netlify.app/) at the University of Waterloo.
+.
+My research focuses on **AI systems** and **compilers**, particularly **efficient LLM inference**, **GPU programming systems**, and **program analysis for reliable AI software**. I am interested in building tools that bridge high-level AI models and low-level execution, including compiler/runtime optimization, performance analysis, and formal reasoning about AI programs.
 
 _I spent quite a few years solving algorithmic puzzles competitively. Along the way, I won a Gold Medal at the ACM-ICPC Asia Regional Contest and became the 2024 Hubei Provincial ICPC Champion._
 
