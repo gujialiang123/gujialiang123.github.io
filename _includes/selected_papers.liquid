@@ -1,3 +1,7 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  <h3>Published / Accepted Papers</h3>
+  {% bibliography --group_by none --query @*[category=publication]* %}
+
+  <h3>arXiv / Manuscripts</h3>
+  {% bibliography --group_by none --query @*[category=manuscript]* %}
 </div>

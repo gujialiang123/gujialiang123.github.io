@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: selected publications and manuscripts.
+description: published and accepted papers, followed by arXiv manuscripts.
 nav: true
 nav_order: 2
 ---
@@ -15,7 +15,7 @@ nav_order: 2
 
 <div class="publications">
 
-<h2>Publications</h2>
+<h2>Published / Accepted Papers</h2>
 {% bibliography --group_by none --query @*[category=publication]* %}
 
 <h2>arXiv / Manuscripts</h2>
