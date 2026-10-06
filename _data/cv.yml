@@ -189,7 +189,22 @@ cv:
         paper_link: "[arXiv](https://arxiv.org/abs/2506.06930)"
         summary: "**Jia-Liang Gu**\\*, Tenghao Huang\\*, Alexander Spangher\\*, Jiatong Shi, and Muhao Chen. arXiv:2506.06930 [cs.SE], 2025. \\* Equal contribution (co-first authors)."
 
-    Experience:
+    Work Experience:
+      - company: Microsoft Research
+        position: Research Intern, AIFX Group
+        location: Redmond, WA, USA
+        start_date: "2026-05"
+        end_date: "2026-08"
+        summary: "Worked on regime-aware LLM inference optimization, improving LLM serving performance across diverse workload patterns on NVIDIA H200 GPUs."
+        highlights:
+          - "Built an automated profiling and tuning pipeline for SGLang, exploring server-level configurations across long-context and concurrent workloads, including scheduling, chunked prefill, CUDA graphs, memory allocation, and attention/MoE backends."
+          - "Achieved up to **2.2× end-to-end speedup** over the baseline in long-context regimes through workload-specific server optimization."
+          - "Investigated kernel-level performance bottlenecks in prefill and decoding, using GPU profiling, correctness validation, and targeted kernel optimizations to reduce memory movement and improve execution efficiency."
+          - "Designed extensive ablation and transferability studies to understand when optimizations generalize across workloads, including synthetic regimes and agentic workloads such as ToolAgent."
+          - "Explored a workload-aware multi-server routing design that dispatches requests to specialized server configurations based on workload characteristics."
+          - "Contributed performance findings, bug reports, and fixes upstream to the SGLang open-source project."
+
+    Research Experience:
       - company: University of Waterloo
         position: Research Assistant
         location: Waterloo, Canada
